@@ -1,6 +1,6 @@
 # YouTube Transcript Study Notes
 
-![YouTube Transcript Study Notes promo](assets/promo.png)
+![YouTube Transcript Study Notes promo](assets/promo-1600x900.png)
 
 Turn subtitles that are visibly present on a YouTube page into reviewable study notes: a summary, glossary, time anchors, and explicit gaps. It is useful for language learning, lesson review, and short-form video study without presenting guessed audio as a transcript.
 
