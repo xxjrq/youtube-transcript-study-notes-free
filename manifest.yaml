@@ -2,7 +2,7 @@ name: youtube-transcript-study-notes-free
 slug: youtube-transcript-study-notes-free
 display_name: YouTube 字幕学习笔记
 description: 使用用户指定的浏览器环境读取 YouTube 视频页面中实际可见的字幕，按目标语言与学习目标整理摘要、术语表和时间锚点。适合单个章节、场景或短文学习；字幕关闭、缺失或语言不匹配时明确记录限制与缺项，绝不根据音频臆造内容。
-version: 1.0.1
+version: 1.0.2
 license: MIT
 repository: https://github.com/xxjrq/youtube-transcript-study-notes-free
 icon: icon-512.png
